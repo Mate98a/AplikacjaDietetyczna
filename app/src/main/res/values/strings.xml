@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikacja dietetyczna</string>
+    <string name="weight">Waga</string>
+    <string name="height">Wzrost(cm)</string>
+    <string name="calculateBMI">Oblicz</string>
+    <string name="very_severely_underweight">Wygłodzenie</string>
+    <string name="severely_underweight">Wygłodzenie</string>
+    <string name="underweight">Niedowaga</string>
+    <string name="normal">Waga normalna</string>
+    <string name="overweight">Nadwaga</string>
+    <string name="obese_class_i">Otyłość I stopnia</string>
+    <string name="obese_class_ii">Otyłość II stopnia</string>
+    <string name="obese_class_iii">Otyłość III stopnia</string>
+    <string name="age">Wiek</string>
+</resources>
